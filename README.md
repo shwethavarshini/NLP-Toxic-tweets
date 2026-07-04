@@ -76,8 +76,3 @@ When reviewing the runtime console execution logs, use these metrics to optimize
 
 * **ROC-AUC Curve Geometry:** Explores the true positive capability across custom classification boundaries. The closer a model's curve arcs toward the top left corner (maximizing Area Under the Curve near `1.0`), the stronger its structural predictive power.
 
----
-
-## 📄 License
-
-This benchmark repository is open-sourced for educational, instructional, and research applications.
